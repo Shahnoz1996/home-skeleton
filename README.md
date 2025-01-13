@@ -1,3 +1,3 @@
- Home-skeleton
+# home-skeleton
 
-"Next-pizza вкусней уже некуда"# home-skeleton
+Next-pizza вкусней уже некуда
