@@ -81,7 +81,7 @@ label {
 }
 
 @media (max-width: 1024px) {
-    label {
+    label, .popup {
         width: min(400px, 100%);
     }
 }
